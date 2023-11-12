@@ -1,0 +1,14 @@
+why json:
+-data representation format
+-intergrates with most languages 
+-has a simple sytanx  
+-lightweight easy to read/write
+-comonly used for APIs and config files 
+Json types include :
+-string 
+-numbers {1,1.1 and scientific}
+-boolen values 
+-arrays []
+-objects {"key" : "value"}  note -the values can be of any type mentioned above
+json is valid javascript
+
