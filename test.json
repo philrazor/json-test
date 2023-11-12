@@ -1,0 +1,19 @@
+let newObject =
+`[
+  {
+    "name": "philip Njoroge",
+    "age" : 21,
+    "major" : "computer science"
+  },
+  {
+    "name": "Eva kim",
+    "age":20,
+    "major":"biochemistry"
+  },
+  {
+    "name":"caro wanjiru",
+    "age" :19,
+    "major":null
+  }
+]`
+example : console.log(JSON.parse(newObject)[0].name)
